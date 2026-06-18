@@ -1,0 +1,9 @@
+{
+  "site_title": "亚洲精选影片-精选影片片单-高清影片在线观看",
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 12,
+  "video_sources_from_original_js": 20,
+  "cover_reference_rule": "Movies reference top-level 1.jpg to 150.jpg by sequence; image files were not present in the uploaded ZIP.",
+  "baidu_analytics_inserted": true
+}
